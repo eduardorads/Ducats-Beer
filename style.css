@@ -1,4 +1,7 @@
-#cabecalho{
+body{background-color: white;}
+
+
+#cabecalho {
     background-color: navajowhite;
     color: white;
     display: flex;    

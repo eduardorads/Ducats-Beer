@@ -11,10 +11,11 @@ header {
     text-align: center;
 }
 #cabecalho{
-    background-color: #444;
-    color: #fff;
+    background-color: navajowhite;
+    color: white;
     padding: 10px;
-    text-align: center;
+    display: flex;
+    font-family: cursive;
 }
 
 nav a {

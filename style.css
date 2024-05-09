@@ -17,12 +17,6 @@ header {
     display: flex;
     font-family: cursive;
 }
-
-nav a {
-    color: #fff;
-    text-decoration: none;
-    margin: 0 10px;
-}
 section {
     padding: 20px;
     margin: 20px;

@@ -6,6 +6,13 @@
     display: flex;
     font-family: cursive;
 }
+#listacabecalho{
+    background-color: navajowhite;
+    color: white;
+    padding: 10px;
+    display: flex;
+    font-family: cursive;
+}
 section {
     padding: 20px;
     margin: 20px;

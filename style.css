@@ -10,12 +10,13 @@ header {
     padding: 20px;
     text-align: center;
 }
-nav {
+#cabecalho{
     background-color: #444;
     color: #fff;
     padding: 10px;
     text-align: center;
 }
+
 nav a {
     color: #fff;
     text-decoration: none;

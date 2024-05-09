@@ -1,8 +1,8 @@
 
 #cabecalho {
     background-color: navajowhite;
-    color: white;
-    display: flex;    
+    display: flex;
+    font-size: 20px;    
 }
 
 section {

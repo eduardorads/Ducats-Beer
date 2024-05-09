@@ -1,12 +1,12 @@
 
-#cabecalho {
+.cabecalho {
     background-color: navajowhite;
     color: white;
     padding: 10px;
     display: flex;
     font-family: cursive;
 }
-#listacabecalho{
+.listacabecalho{
     background-color: navajowhite;
     color: white;
     padding: 10px;
